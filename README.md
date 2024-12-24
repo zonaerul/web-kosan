@@ -36,10 +36,8 @@ Aplikasi **KelolaKosan** adalah sistem manajemen kosan yang dirancang untuk memp
 - **Bootstrap (Frontend Framework)**
 - **JavaScript**
 
-## PHP Version
-    ```bash
-    PHP Version ^8.2
-    ```
+## **PHP Version**
+8.2
 
 versi php harus menyesuaikan ya teman-teman
 
