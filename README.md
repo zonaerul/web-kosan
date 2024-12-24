@@ -37,7 +37,7 @@ Aplikasi **KelolaKosan** adalah sistem manajemen kosan yang dirancang untuk memp
 - **JavaScript**
 
 ## **PHP Version**
-8.2
+PHP 8.2
 
 versi php harus menyesuaikan ya teman-teman
 
